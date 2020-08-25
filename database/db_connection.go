@@ -45,6 +45,6 @@ func ConfigDB() *mongo.Database {
 	}
 	fmt.Println("Connected to MongoDB!")
 
-	dbname = os.Getenv("EXERCISE_DB_NAME")
+	dbname = os.Getenv("DB_NAME")
 	return client.Database(dbname)
 }
