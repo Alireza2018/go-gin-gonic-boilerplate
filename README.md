@@ -25,10 +25,6 @@
   </a> -->
 </div>
 
-<div align="center">
-  <sub>Inspired and heavily based on the amazing <a href="https://github.com/MatterhornDev/matterhorn">Matterhorn</a> project.</sub>
-</div>
-
 <br>
 
 ## ✨ Demo
